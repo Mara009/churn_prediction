@@ -1,4 +1,4 @@
-# churn
+# churn_prediction
 
 Proyecto para análisis y modelado de churn.
 
@@ -51,10 +51,3 @@ python prueba.py
 - Añadir `.venv/` a `.gitignore`.
 - Mantener `requirements.txt` actualizado con `pip freeze > requirements.txt` cuando sea necesario.
 - Guardar resultados de modelos en `models/`.
-
----
-
-Si quieres, puedo:
-- mover `prueba.py` a `src/` ahora,
-- crear `.gitignore` con `.venv/` y otros ignores comunes,
-- o añadir un `__init__.py` en `src/`.
