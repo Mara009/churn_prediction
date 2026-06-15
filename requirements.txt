@@ -8,3 +8,8 @@ seaborn>=0.12
 jupyterlab
 notebook
 joblib
+imbalanced-learn>=0.11
+ydata-profiling>=4.0
+dash>=2.0
+plotly>=5.0
+streamlit
