@@ -3,12 +3,16 @@
 Proyecto para análisis y modelado de churn.
 
 ## Estructura
-
+'''
+- `data/`data
+    -- raw/ ## datos sin procesar 
+    -- processed/ datos procesados
 - `src/` - código fuente del proyecto
 - `notebooks/` - notebooks exploratorios y experimentos
 - `models/` - artefactos de modelos (pesos, pickles)
 - `.venv/` - entorno virtual (no incluir en VCS)
 - `requirements.txt` - dependencias del proyecto
+'''
 
 ## Setup (Windows)
 

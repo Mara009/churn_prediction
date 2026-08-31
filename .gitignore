@@ -16,3 +16,12 @@ models/
 *.db
 .venv/
 .pytest_cache/
+# Reportes y archivos generados. sugerencia del chat, no subir esto
+*.html
+*.pkl
+*.joblib
+X_train.csv
+X_test.csv
+y_train.csv
+y_test.csv
+comments.txt
